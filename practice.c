@@ -107,7 +107,7 @@ int main()
     return 0;
 }*/
 
-#include<stdio.h>
+/*#include<stdio.h>
 #include<math.h>
 int main()
 {
@@ -143,5 +143,12 @@ int main()
       printf("Root 1=%.2lf+%.2lfi\n",realPart,imagPart);
       printf("Root 2=%.2lf+%.2lfi\n",realPart,imagPart);
     }
+    return 0;
+}*/
+
+#include<stdio.h>
+int main()
+{
+
     return 0;
 }

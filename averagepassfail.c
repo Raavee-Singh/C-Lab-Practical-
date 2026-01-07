@@ -13,7 +13,7 @@ void main()
     printf("Enter the marks of three subjects:");
     scanf("%d%d%d",&sub1,&sub2,&sub3);
     average=(sub1+sub2+sub3)/2.0;
-    printf("Average=%.2lf",average);
+    printf("Average=%.2lf\n",average);
     if(isPassed(sub1,sub2,sub3))
     printf("The student has passed.\n");
     else

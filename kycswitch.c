@@ -1,12 +1,10 @@
-//Part A program 3: 
 #include<stdio.h>
 int main()
 {
     int choice;
     int inputID;
-    //Pre-stored KYC IDs
     int PAN_Number=1234;
-    long int AADHAR_Number=56789012;
+    int AADHAR_Number=56712;
     int APAAR_ID=7890;
     int Driving_License=3456;
     int Passport=9012;
@@ -58,5 +56,4 @@ int main()
             printf("Invalid choice. Please select a valid option (1-5).\n");
     }
 return 0;
-
 }

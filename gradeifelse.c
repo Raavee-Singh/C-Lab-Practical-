@@ -1,4 +1,3 @@
-//Part A- program 2: Determine the grade based on marks using if-else statements
 #include<stdio.h>
 int main()
 {

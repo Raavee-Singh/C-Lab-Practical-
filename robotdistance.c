@@ -1,4 +1,3 @@
-//Part A program 1: Calculate the distance between two points in a 2D plane
 #include<stdio.h>
 #include<math.h>
 void main()
